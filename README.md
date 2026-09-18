@@ -32,7 +32,7 @@ This repository is configured to work automatically with GitHub Codespaces. You 
 1. **Clone the Repository**: Clone this repository to your home directory:
 
     ```sh
-    gh repo clone FidelusAleksander/dotfiles ~/dotfiles
+    gh repo clone v-fidelusaleksander/dotfiles ~/dotfiles
     ```
 
 2. **Install Brew packages**:
